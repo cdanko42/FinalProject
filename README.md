@@ -5,3 +5,5 @@ This paper performs a Bayesian data analysis of mass shootings in the United Sta
 To replicate the results of the project, run DataCleaning.R, then DataAnalysis.R in the Code folder. This will generate all the graphics that feed into the pdf paper. 
 
 If the depository is set to the directory folder, the path to the data is in the code. The data is contained in the Data folder of the project. 
+
+The source code and required graphics for the paper can be found in the DataScienceProject folder. 
